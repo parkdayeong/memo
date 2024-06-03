@@ -9,6 +9,7 @@ const Day = () => {
   return (
     <>
       <h2>Day {day}</h2>
+      {words.length === 0 && <span>Loading...</span>}
       <table>
         {words.map((word) => {
           return <Word word={word} key={word.id} />;

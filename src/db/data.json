@@ -11,6 +11,14 @@
     {
       "id": "3",
       "day": 3
+    },
+    {
+      "id": "57c4",
+      "day": 4
+    },
+    {
+      "id": "f2d6",
+      "day": 5
     }
   ],
   "words": [
@@ -19,13 +27,6 @@
       "day": 1,
       "eng": "cong",
       "kor": "콩이",
-      "isDone": false
-    },
-    {
-      "id": "2",
-      "day": 1,
-      "eng": "test",
-      "kor": "테스트",
       "isDone": false
     },
     {
@@ -47,6 +48,76 @@
       "day": 3,
       "eng": "dog",
       "kor": "개",
+      "isDone": false
+    },
+    {
+      "id": "a69c",
+      "day": "3",
+      "eng": "house",
+      "kor": "집",
+      "isDone": false
+    },
+    {
+      "id": "8c64",
+      "day": "1",
+      "eng": "test",
+      "kor": "테스트",
+      "isDone": true
+    },
+    {
+      "id": "5dd3",
+      "day": "1",
+      "eng": "school",
+      "kor": "학교",
+      "isDone": true
+    },
+    {
+      "id": "3a0a",
+      "day": "2",
+      "eng": "pensil",
+      "kor": "연필",
+      "isDone": false
+    },
+    {
+      "id": "8646",
+      "day": "2",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false
+    },
+    {
+      "id": "a296",
+      "day": "2",
+      "eng": "mouse",
+      "kor": "쥐",
+      "isDone": false
+    },
+    {
+      "id": "5bd9",
+      "day": "1",
+      "eng": "phone",
+      "kor": "전화",
+      "isDone": true
+    },
+    {
+      "id": "3cc3",
+      "day": "4",
+      "eng": "monkey",
+      "kor": "원숭이",
+      "isDone": true
+    },
+    {
+      "id": "a92e",
+      "day": "5",
+      "eng": "test",
+      "kor": "테스트",
+      "isDone": false
+    },
+    {
+      "id": "28ed",
+      "day": "4",
+      "eng": "apple",
+      "kor": "사과",
       "isDone": false
     }
   ]
